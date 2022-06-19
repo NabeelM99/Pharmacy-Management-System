@@ -4,7 +4,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
 Full fledged online Pharmacy with access for customer, pharmacist, and admin.  
-Demo website: http://pharmams.epizy.com  
+Demo website: http://pharmansys.epizy.com   
 
 ### Website Functionalities:
 1. For customer
